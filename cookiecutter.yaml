@@ -7,6 +7,8 @@ apply:
   url: '#'
   title: Application coming soon
 hackweek_mission: https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
+redirect:
+    url: https://icesat-2-2023.hackweek.io
 banner:
   title: IceSat-2 Hackweek
   description: An in person, collaborative learning event.

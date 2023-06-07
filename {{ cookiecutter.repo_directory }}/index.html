@@ -28,6 +28,11 @@
             background-size: cover;
         }
     </style>
+    {%- if 'redirect' in cookiecutter %}
+        <script>
+             window.location.replace("{{cookiecutter.redirect.url}}");
+        </script>
+    {% endif %}
 </head>
 
 <body>
