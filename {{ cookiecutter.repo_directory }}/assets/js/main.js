@@ -1,8 +1,5 @@
 "use strict";
 
-/* ===== Redirect to the current event ===== */
-window.location.replace("https://icesat-2-2023.hackweek.io");
-
 /* ======= Header animation ======= */
 const header = document.getElementById('header');
 
