@@ -1,27 +1,38 @@
 repo_directory: html
 name: ICESat-2 Hackweek
-about: Hackweeks are participant-driven events that strive to create welcoming spaces
-  for participants to learn new things, build community and gain hands-on experience
-  with collaboration and team science
+about:
+    description: Hackweeks are participant-driven events that strive to create welcoming spaces
+        for participants to learn new things, build community and gain hands-on experience
+        with collaboration and team science
+    learn_more: https://escience.washington.edu/using-data-science/hackweeks
+    links:
+        - url: https://icesat-2-2023.hackweek.io/
+          title: 2023 Hackweek
+          new_window: true
+        - url: https://icesat-2-2022.hackweek.io/
+          title: 2022 Hackweek
+          new_window: true
+        - url: https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials
+          title: 2020 Hackweek
+          new_window: true
+        - url: https://github.com/ICESAT-2HackWeek/ICESat2_hackweek_tutorials
+          title: 2019 Hackweek
+          new_window: true
 apply:
   url: '#'
   title: Application coming soon
 hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
-redirect:
-    url: https://icesat-2-2023.hackweek.io
+#redirect:
+#    url: https://icesat-2-2023.hackweek.io
 banner:
   title: IceSat-2 Hackweek
   description: An in person, collaborative learning event.
-  start_date: 7 August
-  end_date: 11 August
-  year: 2023
+  start_date: Late
+  end_date: Summer
+  year: 2024
   location: Seattle, WA
-  links:
-  - url: https://icesat-2-2022.hackweek.io/
-    title: 2022 Hackweek
-    new_window: true
   image: https://geohackweek.github.io/assets/images/banner.jpg
-applicant_info: UW Hackweek 2023 will take place in August 2023 (in-person).
+applicant_info: ICESat-2 Hackweek 2024 will take place in late summer 2024 (in-person).
   Applications have not yet opened, but should be anticipated soon after AGU.
 team:
   !include book/team.yaml
@@ -33,6 +44,12 @@ sponsors:
   - name: eScience Institute
     website: ''
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: NASA ICESat-2 Mission
+    website: 'https://icesat-2.gsfc.nasa.gov/mission'
+    logo_url: https://github.com/ICESAT-2HackWeek/icesat-2hackweek.github.io/raw/2022.03.01/assets/images/ICESat2.png
+  - name: Cryo Cloud
+    website: https://book.cryointhecloud.com/intro.html
+    logo_url: https://book.cryointhecloud.com/_static/logo.png
 footer:
   social:
   - icon: github
