@@ -7,21 +7,21 @@ apply:
   url: '#'
   title: Application coming soon
 hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
-redirect:
-    url: https://icesat-2-2023.hackweek.io
+#redirect:
+#    url: https://icesat-2-2023.hackweek.io
 banner:
   title: IceSat-2 Hackweek
   description: An in person, collaborative learning event.
-  start_date: 7 August
-  end_date: 11 August
-  year: 2023
+  start_date: Late
+  end_date: Summer
+  year: 2024
   location: Seattle, WA
   links:
   - url: https://icesat-2-2022.hackweek.io/
     title: 2022 Hackweek
     new_window: true
   image: https://geohackweek.github.io/assets/images/banner.jpg
-applicant_info: UW Hackweek 2023 will take place in August 2023 (in-person).
+applicant_info: UW Hackweek 2024 will take place in late summer 2024 (in-person).
   Applications have not yet opened, but should be anticipated soon after AGU.
 team:
   !include book/team.yaml
