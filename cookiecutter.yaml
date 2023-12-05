@@ -32,7 +32,7 @@ banner:
   year: 2024
   location: Seattle, WA
   image: https://geohackweek.github.io/assets/images/banner.jpg
-applicant_info: UW Hackweek 2024 will take place in late summer 2024 (in-person).
+applicant_info: ICESat-2 Hackweek 2024 will take place in late summer 2024 (in-person).
   Applications have not yet opened, but should be anticipated soon after AGU.
 team:
   !include book/team.yaml
