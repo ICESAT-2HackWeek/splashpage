@@ -25,7 +25,6 @@ hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
 #redirect:
 #    url: https://icesat-2-2023.hackweek.io
 banner:
-  title: IceSat-2 Hackweek
   description: An in person, collaborative learning event.
   start_date: Late
   end_date: Summer
