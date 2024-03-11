@@ -2,7 +2,7 @@ repo_directory: html
 name: ICESat-2 Hackweek
 about:
     description:
-        "We are in early stages to organize a third event as part of this series.
+        "We are in early stages to organize a fifth event as part of this series.
         Currently we are actively seeking volunteers from the community to help plan
         and execute the event. There are three possible roles to help out:
         <ul>
@@ -28,10 +28,10 @@ about:
         - url: https://github.com/ICESAT-2HackWeek/ICESat2_hackweek_tutorials
           title: 2019 Hackweek
           new_window: true
-apply:
-  url: '#'
-  title: Application coming soon
-hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
+# apply:
+#   url: '#'
+#   title: Application coming soon
+# hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
 #redirect:
 #    url: https://icesat-2-2023.hackweek.io
 banner:
@@ -41,8 +41,8 @@ banner:
   year: 2024
   location: Seattle, WA
   image: https://geohackweek.github.io/assets/images/banner.jpg
-applicant_info: ICESat-2 Hackweek 2024 will take place in late summer 2024 (in-person).
-  Applications have not yet opened, but should be anticipated soon after AGU.
+applicant_info: ICESat-2 Hackweek 2024 will take place 19-23 August 2024 (in-person).
+  Organizing team applications are currently open, with participant applications open in April.
 team:
   !include book/team.yaml
 schedule:
