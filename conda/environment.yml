@@ -10,13 +10,13 @@ dependencies:
   - cookiecutter
   - git
   - ipyleaflet
-  - jupyter-book=0.13
+  - jupyter-book>=0.13
   - jupyter-resource-usage
   - jupyterhub-singleuser
   - jupyterlab=3
   - jupytext
   - pip
-  - python=3.10
+  - python>=3.10
   - sphinxcontrib-bibtex
   - vim
   - wget

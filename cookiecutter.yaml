@@ -1,10 +1,9 @@
 repo_directory: html
 name: ICESat-2 Hackweek
 about:
-    description: Hackweeks are participant-driven events that strive to create welcoming spaces
-        for participants to learn new things, build community and gain hands-on experience
-        with collaboration and team science
-    learn_more: https://escience.washington.edu/using-data-science/hackweeks
+    description:
+        "We are in the early stages of organizing a fifth event as part of this series, and we need your help! Consider joining the ICESat-2 hackweek organizing team. We will partner with you to design tutorials and projects, and provide a variety of professional development opportunities along the way. Click on the button below to learn more:"
+    learn_more: https://escience.notion.site/UW-Hackweek-Organizing-Team-Application-b7e5742a4c7e4cad8b4ece80ee171ab0
     links:
         - url: https://icesat-2-2023.hackweek.io/
           title: 2023 Hackweek
@@ -18,21 +17,20 @@ about:
         - url: https://github.com/ICESAT-2HackWeek/ICESat2_hackweek_tutorials
           title: 2019 Hackweek
           new_window: true
-apply:
-  url: '#'
-  title: Application coming soon
-hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
+# apply:
+#   url: '#'
+#   title: Application coming soon
+# hackweek_mission: https://escience.washington.edu/using-data-science/hackweeks
 #redirect:
 #    url: https://icesat-2-2023.hackweek.io
 banner:
-  description: An in person, collaborative learning event.
-  start_date: Late
-  end_date: Summer
+  description: Tutorials + peer-to-peer learning + project based teamwork using NASA's ICESat-2 data.
+  start_date: 19
+  end_date: 23 Aug
   year: 2024
-  location: Seattle, WA
+  location: In Person on the University of Washington campus, Seattle, WA
   image: https://geohackweek.github.io/assets/images/banner.jpg
-applicant_info: ICESat-2 Hackweek 2024 will take place in late summer 2024 (in-person).
-  Applications have not yet opened, but should be anticipated soon after AGU.
+applicant_info: Right now we are only accepting applications for our Organizing Team. However, we would still like to hear from you if you are interested in attending as a participant! Applications for participants will open in early April. Click on the button below and we will be sure to email you as soon as the application form is available.
 team:
   !include book/team.yaml
 schedule:
