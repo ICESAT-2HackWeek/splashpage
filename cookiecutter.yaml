@@ -4,6 +4,9 @@ about:
     description: ""
     learn_more: https://event.hackweek.io/
     links:
+        - url: https://icesat-2-2024.hackweek.io/
+          title: 2024 Hackweek
+          new_window: true
         - url: https://icesat-2-2023.hackweek.io/
           title: 2023 Hackweek
           new_window: true
