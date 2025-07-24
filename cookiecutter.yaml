@@ -1,5 +1,5 @@
 repo_directory: html
-name: ICESat-2 Hackweek
+name: ICESat-2 Hackweeks
 about:
     description: ""
 #    learn_more: https://event.hackweek.io/
@@ -29,10 +29,10 @@ about:
 #redirect:
 #    url: https://icesat-2-2023.hackweek.io
 banner:
-  description: Tutorials + peer-to-peer learning + project based teamwork using NASA's ICESat-2 data.
-  start_date: 19
-  end_date: 23 Aug
-  year: 2025
+  description: Summary page for all past ICESat-2 Hackweeks
+  # start_date: 19
+  # end_date: 23 Aug
+  # year: 2025
   location: In Person on the University of Washington campus, Seattle, WA
   image: https://geohackweek.github.io/assets/images/banner.jpg
 team:
