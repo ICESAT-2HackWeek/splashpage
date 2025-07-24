@@ -4,6 +4,9 @@ about:
     description: ""
 #    learn_more: https://event.hackweek.io/
     links:
+        - url: https://icesat-2-2025.hackweek.io/
+          title: 2025 Hackweek
+          new_window: true
         - url: https://icesat-2-2024.hackweek.io/
           title: 2024 Hackweek
           new_window: true
@@ -29,7 +32,7 @@ banner:
   description: Tutorials + peer-to-peer learning + project based teamwork using NASA's ICESat-2 data.
   start_date: 19
   end_date: 23 Aug
-  year: 2024
+  year: 2025
   location: In Person on the University of Washington campus, Seattle, WA
   image: https://geohackweek.github.io/assets/images/banner.jpg
 team:
@@ -45,9 +48,9 @@ sponsors:
   - name: NASA ICESat-2 Mission
     website: 'https://icesat-2.gsfc.nasa.gov/mission'
     logo_url: https://github.com/ICESAT-2HackWeek/icesat-2hackweek.github.io/raw/2022.03.01/assets/images/ICESat2.png
-  - name: Cryo Cloud
-    website: https://book.cryointhecloud.com/intro.html
-    logo_url: https://book.cryointhecloud.com/_static/logo.png
+  - name: CryoCloud
+    website: https://cryointhecloud.com
+    logo_url: https://raw.githubusercontent.com/CryoInTheCloud/CryoCloudWebsite/refs/heads/main/cryocloud.png
 footer:
   social:
   - icon: github
